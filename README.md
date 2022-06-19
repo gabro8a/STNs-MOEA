@@ -1,7 +1,7 @@
 # STNs-MOEA
 Search Trajectory Networks for Continuous  Multi-Objective Optimisation
 
-R Scripts for constructing, visualising and calculating metrics of STNs of continous benchmark functions.
+Resources for constructing, visualising and calculating metrics of STNs of continous benchmark functions.
 
 This repository is associated with the revised version of the article:
 
