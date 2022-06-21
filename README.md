@@ -1,7 +1,7 @@
 # STNs-MOEA
 
 
-<img align="left" src="\plots\stn-icon.png" style="zoom:30%;" />
+<img align="left" src="/plots/stn-icon.png" style="zoom:30%;" />
 
 Search Trajectory Networks (STNs) for multi-objective evolutionary algorithms when solving continuous optimisation problems.
 
